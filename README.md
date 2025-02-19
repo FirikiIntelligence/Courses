@@ -9,8 +9,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 
 
-
-
+[Hex-Rays](https://hex-rays.com/training)<br/>
+[Israel Cyber Campus](https://israelcybercampus.com)<br/>
 [TrainSec](https://trainsec.net)<br/>
 [CORELAN TRAINING](https://corelan-training.com)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>

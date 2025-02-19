@@ -13,7 +13,9 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
 [Hack The Box - HTB](https://academy.hackthebox.com)<br/>
+[CTI Academy](https://ctiacademy.org)<br/>
 [TCM SEC](https://academy.tcm-sec.com)<br/>
+[CyberSudo](https://academy.cybersudo.org)<br/>
 [Lets Defend](https://app.letsdefend.io)<br/>
 [TryHack Me](https://tryhackme.com)<br/>
 [OffSec](https://offsec.com)<br/>
@@ -49,11 +51,12 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [Check Point](https://training-certifications.checkpoint.com/#)<br/>
 [INE](https://ine.com)<br/>
 [Global Association for Quality Management (GAQM)](https://gaqm.org)<br/>
-[](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>
-[](https://wcnacertification.com)<br/>
-[](https://opengroup.org)<br/>
-[](https://redteamacademy.com)<br/>
-[](https://blackstormsecurity.com/certification)<br/>
+[F5 Roadmap](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>
+[F5](https://my.f5.com/manage/s/article/K29900360#401)<br/>
+[Protocol Analysis Institute](https://wcnacertification.com)<br/>
+[The Open Group](https://opengroup.org)<br/>
+[RedTeam Hacker Academy](https://redteamacademy.com)<br/>
+[BLACKSTORM SECURITY](https://blackstormsecurity.com/certification)<br/>
 [MALWAREUNICORN](https://malwareunicorn.org/#/workshops)<br/>
 [Zero Day Engineering](https://zerodayengineering.com/training/index.html)<br/>
 [ATTACK IQ](https://academy.attackiq.com)<br/>

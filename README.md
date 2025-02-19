@@ -27,30 +27,28 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [ISACA](https://isaca.org)<br/>
 [IFOSEC Skills](https://app.infosecinstitute.com)<br/>
 [The SecOps Group](https://secops.group)<br/>
-[](https://cyberwarfare.live)<br/>
-[](https://comptia.org)<br/>
-[](https://courses.zero2auto.com)<br/>
-[](https://axelos.com)<br/>
-[](https://aws.amazon.com/training)<br/>
-[](https://redhat.com/en/services/training-and-certification)<br/>
-[](https://iapp.org/certify)<br/>
-[](https://asisonline.org)<br/>
-[](https://redhat.com/en/services/certifications)<br/>
-[](https://certipedia.com)<br/>
-[](https://tuev-nord.de/en/company)<br/>
-[](https://tuv.com/world/en)<br/>
-[](https://tuvsud.com/en)<br/>
-[](https://en.tuv.at)<br/>
-[](https://lpi.org)<br/>
-[](https://pmi.org)<br/>
-[](https://isa.org/certification)<br/>
-[](https://sabsa.org/certification)<br/>
-[](https://exin.com)<br/>
-[](https://identitymanagementinstitute.org/certification)<br/>
-[](https://learningportal.juniper.net/juniper/default.aspx)<br/>
-[](https://training-certifications.checkpoint.com/#)<br/>
-[](https://ine.com)<br/>
-[](https://gaqm.org)<br/>
+[CyberWarFare Labs](https://cyberwarfare.live)<br/>
+[CompTIA](https://comptia.org)<br/>
+[Zero 2](https://courses.zero2auto.com)<br/>
+[AXELOS](https://axelos.com)<br/>
+[AWS Training and Certification](https://aws.amazon.com/training)<br/>
+[Red Hat Training and Certification](https://redhat.com/en/services/training-and-certification)<br/>
+[IAPP](https://iapp.org/certify)<br/>
+[ASIS International ](https://asisonline.org)<br/>
+[TÜV Rheinland ](https://certipedia.com)<br/>
+[TÜV NORD](https://tuev-nord.de/en/company)<br/>
+[TÜV SÜD](https://tuvsud.com/en)<br/>
+[TÜV AUSTRIA](https://en.tuv.at)<br/>
+[Linux Professional Institute](https://lpi.org)<br/>
+[Project Management Institute](https://pmi.org)<br/>
+[ISA - International Society of Automation](https://isa.org/certification)<br/>
+[SABSA Enterprise Security Architecture](https://sabsa.org/certification)<br/>
+[EXIN](https://exin.com)<br/>
+[Identity Management Institute® (IMI)](https://identitymanagementinstitute.org/certification)<br/>
+[Juniper Networks](https://learningportal.juniper.net/juniper/default.aspx)<br/>
+[Check Point](https://training-certifications.checkpoint.com/#)<br/>
+[INE](https://ine.com)<br/>
+[Global Association for Quality Management (GAQM)](https://gaqm.org)<br/>
 [](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>
 [](https://wcnacertification.com)<br/>
 [](https://opengroup.org)<br/>
@@ -72,9 +70,10 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
 [trainsec](https://trainsec.net)<br/>
+[F5] (https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740) & (https://my.f5.com/manage/s/article/K29900360#401)
 
 
-[EC-Council.org](https://eccouncil.org)<br/>
+[EC-Council](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>

@@ -7,12 +7,12 @@
 You can use Ctrl when clicking a link to avoid losing the main page
 
 [MAD20™](https://mad20.io)<br/>
+[Threat Intelligence Academy](https://threatintel.academy)<br/>
 
 
 
 
-
-
+[PentesterLab](https://pentesterlab.com)<br/>
 [Hacker Associate](https://hackerassociate.com)<br/>
 [CyberDefenders](https://cyberdefenders.org)<br/>
 [Hex-Rays](https://hex-rays.com/training)<br/>

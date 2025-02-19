@@ -11,6 +11,9 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 
 
+
+[ICTTF - International Cyber Threat Task Force](https://community.icttf.org)<br/>
+[EITCA Academy](https://eitca.org/certifications)<br/>
 [FORTINET](https://training.fortinet.com)<br/>
 [PentesterLab](https://pentesterlab.com)<br/>
 [Hacker Associate](https://hackerassociate.com)<br/>

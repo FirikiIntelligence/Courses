@@ -10,7 +10,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Threat Intelligence Academy](https://threatintel.academy)<br/>
 
 
-
+(https://drii.org)<br/>
 [PECB - Professional Evaluation and Certification Board](https://pecb.com)<br/>
 [ICTTF - International Cyber Threat Task Force Free & Paid Modules](https://community.icttf.org)<br/>
 [EITCA Academy](https://eitca.org/certifications)<br/>
@@ -97,9 +97,10 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [trainsec](https://trainsec.net)<br/>
 [EC-Council Free & Paid Modules](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
-[udemy](https://udemy.com)<br/>
-[coursera](https://coursera.org)<br/>
+[udemy Free & Paid Modules](https://udemy.com)<br/>
+[coursera Free & Paid Modules](https://coursera.org)<br/>
 [edx](https://edx.org)<br/>
 [Alison Free & Paid Modules](https://alison.com)<br/>
+[Cybrary Free & Paid Modules](https://cybrary.it)<br/>
 
 ![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)

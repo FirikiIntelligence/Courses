@@ -95,7 +95,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
 [trainsec](https://trainsec.net)<br/>
-[EC-Council](https://eccouncil.org)<br/>
+[EC-Council Free & Paid Modules](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>

@@ -7,7 +7,7 @@ https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B5
 Cybersecurity Football Team - Ethical Hackers Academy®
 <br/>
 https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg<br/>
-<br/>
+
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
 [SANS](https://sans.org)<br/>

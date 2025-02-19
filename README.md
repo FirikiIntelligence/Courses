@@ -14,7 +14,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [TCM SEC](https://academy.tcm-sec.com)<br/>
 [CyberSudo](https://academy.cybersudo.org)<br/>
 [Lets Defend](https://app.letsdefend.io)<br/>
-[ ](https://cyberlandsec.com)<br/>
+[CyberLand Academy](https://cyberlandsec.com)<br/>
 [TryHack Me](https://tryhackme.com)<br/>
 [OffSec](https://offsec.com)<br/>
 [CREST](https://crest-approved.org)<br/>

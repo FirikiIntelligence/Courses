@@ -1,6 +1,6 @@
 # 1337 Course Providers
 <br/>
-[Roadmap for Learning Cyber Security](https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc)
+[Roadmap for Learning Cyber Security](https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc)<br/>
 <br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>

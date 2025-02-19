@@ -8,9 +8,10 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 [MAD20™](https://mad20.io)<br/>
 [Threat Intelligence Academy](https://threatintel.academy)<br/>
-
-
-(https://drii.org)<br/>
+[CrowdSec Academy Free](https://academy.crowdsec.net)<br/>
+[Recorded Future University Free](https://university.recordedfuture.com)<br/>
+[ATT&CK Training Free](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>
+[DRI International](https://drii.org)<br/>
 [PECB - Professional Evaluation and Certification Board](https://pecb.com)<br/>
 [ICTTF - International Cyber Threat Task Force Free & Paid Modules](https://community.icttf.org)<br/>
 [EITCA Academy](https://eitca.org/certifications)<br/>

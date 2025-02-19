@@ -70,7 +70,7 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
 [trainsec](https://trainsec.net)<br/>
-[F5] (https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740) & (https://my.f5.com/manage/s/article/K29900360#401)
+[F5](https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740)(https://my.f5.com/manage/s/article/K29900360#401)
 
 
 [EC-Council](https://eccouncil.org)<br/>

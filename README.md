@@ -52,7 +52,7 @@
 [](https://blackstormsecurity.com/certification)<br/>
 [](https://malwareunicorn.org/#/workshops)<br/>
 [](https://zerodayengineering.com/training/index.html)<br/>
-[](https://academy.attackiq.com)<br/>
+[ATTACK IQ](https://academy.attackiq.com)<br/>
 [kaspersky expert training](https://xtraining.kaspersky.com)<br/>
 [Google](https://grow.google)<br/>
 
@@ -61,13 +61,13 @@
 
 
 
-[](https://8ksec.io/certifications)<br/>
-[](https://learn.microsoft.com)<br/>
-[](https://itacademy.vmware.com)<br/>
-[](https://academy.blackperldfir.com)<br/>
-[](https://ethicalhacksacademy.com)<br/>
-[](https://eccouncil.org)<br/>
-https://eduonix.com)<br/>
+[8kSec](https://8ksec.io/certifications)<br/>
+[Microsoft Learn](https://learn.microsoft.com)<br/>
+[VMware, Inc](https://itacademy.vmware.com)<br/>
+[BlackPerl](https://academy.blackperldfir.com/)<br/>
+[Ethical Hackers Academy](https://ethicalhacksacademy.com)<br/>
+[EC-Council.org](https://eccouncil.org)<br/>
+[eduonix](https://eduonix.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>
 [edx](https://edx.org)<br/>

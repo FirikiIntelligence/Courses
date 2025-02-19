@@ -1,6 +1,8 @@
 # 1337 Course Providers
 <br/>
 
+
+
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
@@ -16,9 +18,9 @@
 [SECURITY BLUE TEAM](https://securityblue.team)<br/>
 [ZERO POINT SECURITY](https://training.zeropointsecurity.co.uk)<br/>
 [mile2.com](https://mile2.com)<br/>
-[](https://isaca.org)<br/>
-[](https://app.infosecinstitute.com)<br/>
-[](https://secops.group)<br/>
+[ISACA](https://isaca.org)<br/>
+[IFOSEC Skills](https://app.infosecinstitute.com)<br/>
+[The SecOps Group](https://secops.group)<br/>
 [](https://cyberwarfare.live)<br/>
 [](https://comptia.org)<br/>
 [](https://courses.zero2auto.com)<br/>
@@ -68,3 +70,4 @@
 https://eduonix.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>
+[edx](https://edx.org)<br/>

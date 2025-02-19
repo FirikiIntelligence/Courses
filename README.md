@@ -1,4 +1,7 @@
-# 1337 Course Providers 
+# 1337 Course Providers
+
+![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)
+
 ![Roadmap for Learning Cyber Security](https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc)
 
 ![Cybersecurity Football Team - Ethical Hackers Academy®](https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg)

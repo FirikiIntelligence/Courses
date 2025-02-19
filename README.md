@@ -1,7 +1,7 @@
 # 1337 Course Providers
 https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc/<br/>
 
-[Cybersecurity career roadmap PDF](https://media.licdn.com/dms/document/media/v2/D561FAQHkzzMUirwMOQ/feedshare-document-pdf-analyzed/feedshare-document-pdf-analyzed/0/1712299591406?e=1740614400&v=beta&t=qz0q7CljfVferKmGGMiJBzzbHye743pbL2-afrsZszI/)<br/>
+[Cybersecurity Career Roadmap free PDF](https://media.licdn.com/dms/document/media/v2/D561FAQHkzzMUirwMOQ/feedshare-document-pdf-analyzed/feedshare-document-pdf-analyzed/0/1712299591406?e=1740614400&v=beta&t=qz0q7CljfVferKmGGMiJBzzbHye743pbL2-afrsZszI)<br/>
 
 [](https://sans.org/)<br/>
 [](https://mosse-institute.com/)<br/>

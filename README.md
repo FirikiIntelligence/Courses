@@ -1,9 +1,8 @@
 # 1337 Course Providers
 <br/>
 
-
-
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
+[Maldev Academy](https://maldevacademy.com)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
 [Hack The Box - HTB](https://academy.hackthebox.com)<br/>
@@ -55,17 +54,17 @@
 [ATTACK IQ](https://academy.attackiq.com)<br/>
 [kaspersky expert training](https://xtraining.kaspersky.com)<br/>
 [Google](https://grow.google)<br/>
-
-
-
-
-
-
+[trainsec](https://trainsec.net)<br/>
+[CYBERNA](https://cybernabeta.net)<br/>
 [8kSec](https://8ksec.io/certifications)<br/>
 [Microsoft Learn](https://learn.microsoft.com)<br/>
 [VMware, Inc](https://itacademy.vmware.com)<br/>
 [BlackPerl](https://academy.blackperldfir.com/)<br/>
 [Ethical Hackers Academy](https://ethicalhacksacademy.com)<br/>
+[sektor7 institute](https://institute.sektor7.net)<br/>
+[OST2.FYI](https://ost2.fyi/Home.html))<br/>
+
+
 [EC-Council.org](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
 [udemy](https://udemy.com)<br/>

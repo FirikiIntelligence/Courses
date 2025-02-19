@@ -2,11 +2,11 @@
 <br/>
 Roadmap for Learning Cyber Security
 <br/>
-https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc
+https://media.licdn.com/dms/image/v2/D5622AQErk7R-ren6XA/feedshare-shrink_800/B56ZPc7Vs2H0Ao-/0/1734578377094?e=1743033600&v=beta&t=l17uvbss9N0osBYdKpgLs2KiQyrfkvrvDwHfb9K_VYc<br/>
 <br/>
 Cybersecurity Football Team - Ethical Hackers Academy®
 <br/>
-https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg
+https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg<br/>
 <br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
@@ -61,6 +61,7 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [ATTACK IQ](https://academy.attackiq.com)<br/>
 [kaspersky expert training](https://xtraining.kaspersky.com)<br/>
 [Google](https://grow.google)<br/>
+[Google Cloud](https://cloud.google.com/learn)<br/>
 [trainsec](https://trainsec.net)<br/>
 [CYBERNA](https://cybernabeta.net)<br/>
 [8kSec](https://8ksec.io/certifications)<br/>
@@ -70,6 +71,7 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [Ethical Hackers Academy](https://ethicalhacksacademy.com)<br/>
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
+[trainsec](https://trainsec.net)<br/>
 
 
 [EC-Council.org](https://eccouncil.org)<br/>

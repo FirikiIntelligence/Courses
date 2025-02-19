@@ -11,7 +11,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 
 
-
+[FORTINET](https://training.fortinet.com)<br/>
 [PentesterLab](https://pentesterlab.com)<br/>
 [Hacker Associate](https://hackerassociate.com)<br/>
 [CyberDefenders](https://cyberdefenders.org)<br/>
@@ -65,6 +65,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Identity Management Institute® (IMI)](https://identitymanagementinstitute.org/certification)<br/>
 [Juniper Networks](https://learningportal.juniper.net/juniper/default.aspx)<br/>
 [Check Point](https://training-certifications.checkpoint.com/#)<br/>
+[Qualys](https://qualys.com/training)<br/>
 [INE](https://ine.com)<br/>
 [Global Association for Quality Management (GAQM)](https://gaqm.org)<br/>
 [F5 Roadmap](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>

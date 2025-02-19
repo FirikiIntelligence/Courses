@@ -1,6 +1,6 @@
 # 1337 Course Providers
 
-https://sans.org/ [br]
+https://sans.org/[br]
 https://mosse-institute.com/ [br]
 https://academy.hackthebox.com/ [br]
 https://academy.tcm-sec.com/ [br]
@@ -49,7 +49,7 @@ https://blackstormsecurity.com/certification/ [br]
 https://malwareunicorn.org/#/workshops/ [br]
 https://zerodayengineering.com/training/index.html/ [br]
 https://academy.attackiq.com/ [br]
-
+https://hex-rays.com/training/
 
 
 

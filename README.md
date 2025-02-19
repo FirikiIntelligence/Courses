@@ -14,7 +14,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [CrowdSec Academy Free](https://academy.crowdsec.net)<br/>
 [Recorded Future University Free](https://university.recordedfuture.com)<br/>
 [ATT&CK Training Free](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>
-[Virtual Hacking Labs](
+[Virtual Hacking Labs](https://virtualhackinglabs.com)<br/>
 [ITCERTS](https://itcerts.ca)<br/>
 [DRI International](https://drii.org)<br/>
 [PECB - Professional Evaluation and Certification Board](https://pecb.com)<br/>

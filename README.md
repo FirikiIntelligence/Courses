@@ -6,9 +6,14 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
-[Hex-Rays](https://hex-rays.com/training)<br/>
+
+
+
+
+
+[TrainSec](https://trainsec.net)<br/>
 [CORELAN TRAINING](https://corelan-training.com)<br/>
-[maldevacademy](https://maldevacademy.com)<br/>
+[Maldev Academy](https://maldevacademy.com)<br/>
 [ATTACKIQ Academy](https://www.academy.attackiq.com)<br/>
 [SEE SECURITY](https://en.see-security.com)<br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>

@@ -62,7 +62,7 @@
 [BlackPerl](https://academy.blackperldfir.com/)<br/>
 [Ethical Hackers Academy](https://ethicalhacksacademy.com)<br/>
 [sektor7 institute](https://institute.sektor7.net)<br/>
-[OST2.FYI](https://ost2.fyi/Home.html))<br/>
+[OST2.FYI](https://ost2.fyi/Home.html)<br/>
 
 
 [EC-Council.org](https://eccouncil.org)<br/>

@@ -1,4 +1,4 @@
-# Leet Course Providers
+# 1337 Course Providers
 
 https://sans.org/
 https://mosse-institute.com/

@@ -1,8 +1,8 @@
 # 1337 Course Providers
 
-https://sans.org/
-https://mosse-institute.com/
-https://academy.hackthebox.com/
+https://sans.org/<br/>
+https://mosse-institute.com/<br/>
+https://academy.hackthebox.com/<br/>
 https://academy.tcm-sec.com/
 https://app.letsdefend.io/
 https://tryhackme.com/

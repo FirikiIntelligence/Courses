@@ -9,9 +9,11 @@ Cybersecurity Football Team - Ethical Hackers Academy®
 https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg<br/><br/>
 
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
+[My OSINT Training](https://myosint.training)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
+[McAfee Institute](https://mcafeeinstitute.com)<br/>
 [Hack The Box - HTB](https://academy.hackthebox.com)<br/>
 [TCM SEC](https://academy.tcm-sec.com)<br/>
 [Lets Defend](https://app.letsdefend.io)<br/>
@@ -54,8 +56,8 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [](https://opengroup.org)<br/>
 [](https://redteamacademy.com)<br/>
 [](https://blackstormsecurity.com/certification)<br/>
-[](https://malwareunicorn.org/#/workshops)<br/>
-[](https://zerodayengineering.com/training/index.html)<br/>
+[MALWAREUNICORN](https://malwareunicorn.org/#)<br/>
+[Zero Day Engineering](https://zerodayengineering.com/training/index.html)<br/>
 [ATTACK IQ](https://academy.attackiq.com)<br/>
 [kaspersky expert training](https://xtraining.kaspersky.com)<br/>
 [Google](https://grow.google)<br/>
@@ -70,7 +72,8 @@ https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
 [trainsec](https://trainsec.net)<br/>
-[F5](https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740)(https://my.f5.com/manage/s/article/K29900360#401)
+[F5 Roadmap](https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740)
+[F5](https://my.f5.com/manage/s/article/K29900360#401)
 
 
 [EC-Council](https://eccouncil.org)<br/>

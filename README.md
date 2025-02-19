@@ -6,6 +6,7 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
+[AlteredSecurity](https://alteredsecurity.com)<br/>
 [Vellum Global Educational Services](https://vellum.org.gr/en)<br/>
 [Zachman International & The FEAC Institute](https://zachman-feac.com)<br/>
 [MAD20™](https://mad20.io)<br/>
@@ -24,6 +25,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Hacker Associate](https://hackerassociate.com)<br/>
 [CyberDefenders](https://cyberdefenders.org)<br/>
 [Hex-Rays](https://hex-rays.com/training)<br/>
+[Nutanix University Certification](
 [Israel Cyber Campus](https://israelcybercampus.com)<br/>
 [TrainSec](https://trainsec.net)<br/>
 [CORELAN TRAINING](https://corelan-training.com)<br/>
@@ -89,6 +91,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Google Free](https://grow.google)<br/>
 [Google Cloud Free](https://cloud.google.com/learn)<br/>
 [trainsec](https://trainsec.net)<br/>
+[ITCERTS](https://itcerts.ca)<br/>
 [CYBERNA](https://cybernabeta.net)<br/>
 [8kSec](https://8ksec.io/certifications)<br/>
 [Microsoft Learn Free Modules & Paid Certs](https://learn.microsoft.com)<br/>

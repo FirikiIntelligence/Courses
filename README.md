@@ -5,9 +5,12 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
+
+[ATTACKIQ Academy](https://www.academy.attackiq.com)<br/>
 [SEE SECURITY](https://en.see-security.com)<br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
+[MOT - My OSINT Training](https://myosint.training)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
 [Hack The Box - HTB](https://academy.hackthebox.com)<br/>

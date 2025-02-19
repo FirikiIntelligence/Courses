@@ -6,7 +6,8 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
-
+[CORELAN TRAINING](https://corelan-training.com)<br/>
+[maldevacademy](https://maldevacademy.com)<br/>
 [ATTACKIQ Academy](https://www.academy.attackiq.com)<br/>
 [SEE SECURITY](https://en.see-security.com)<br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>

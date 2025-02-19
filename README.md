@@ -31,13 +31,13 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [MOT - My OSINT Training](https://myosint.training)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
-[Hack The Box - HTB](https://academy.hackthebox.com)<br/>
+[Hack The Box - HTB Free & Paid Modules](https://academy.hackthebox.com)<br/>
 [CTI Academy Free & Paid Modules](https://ctiacademy.org)<br/>
-[TCM SEC](https://academy.tcm-sec.com)<br/>
+[TCM SEC Academy Free & Paid Modules](https://academy.tcm-sec.com)<br/>
 [CyberSudo](https://academy.cybersudo.org)<br/>
-[Lets Defend](https://app.letsdefend.io)<br/>
+[Lets Defend Free & Paid Modules](https://app.letsdefend.io)<br/>
 [CyberLand Academy Free](https://cyberlandsec.com)<br/>
-[TryHack Me](https://tryhackme.com)<br/>
+[TryHack Me Free & Paid Modules](https://tryhackme.com)<br/>
 [OffSec](https://offsec.com)<br/>
 [CREST](https://crest-approved.org)<br/>
 [isc2](https://isc2.org)<br/>

@@ -4,13 +4,14 @@
 
 ![Cybersecurity Football Team - Ethical Hackers Academy®](https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg)
 
-[Paul Jeremy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap)
-
-[Synack Red Team Pathways](https://www.synack.com/red-team/pathways/)
-
 #
 
 You can use Ctrl when clicking a link to avoid losing the main page
+
+#
+[Paul Jeremy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap)
+#
+[Synack Red Team Pathways](https://www.synack.com/red-team/pathways/)
 
 #
 

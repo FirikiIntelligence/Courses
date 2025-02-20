@@ -6,8 +6,8 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
-
-
+[Maltego Academy](https://academy.maltego.com)<br/>
+[APIsec University Totally Free & Paid Only the Exams](https://apisecuniversity.com)<br/>
 [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>
 [0x12 Dark Development](https://0x12darkdev.net)<br/>
 [CodeMachine](https://codemachine.com)<br/>

@@ -63,7 +63,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Lets Defend](https://app.letsdefend.io)<br/>
 [CISCO](https://cisco.com)<br/>
 [SECURITY BLUE TEAM](https://securityblue.team)<br/>
-[TryHack Me](https://tryhackme.com)<br/>
+[Try Hack Me](https://tryhackme.com)<br/>
 [INFOSEC Skills](https://app.infosecinstitute.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>

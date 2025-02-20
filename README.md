@@ -8,7 +8,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free
 
-[APIsec University Totally Paid Only the Exams](https://apisecuniversity.com)<br/>
+[APIsec University Totally Free Paid Only the Exams](https://apisecuniversity.com)<br/>
 [CrowdSec Academy](https://academy.crowdsec.net)<br/>
 [Recorded Future University](https://university.recordedfuture.com)<br/>
 [ATT&CK Training](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>

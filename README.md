@@ -11,12 +11,21 @@ You can use Ctrl when clicking a link to avoid losing the main page
 #
 [Paul Jeremy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap)
 #
-[Synack Red Team Pathways](https://www.synack.com/red-team/pathways/)
-
+[Synack Red Team Pathways](https://www.synack.com/red-team/pathways)
+#
+[CREST-accredited companies](https://www.crest-approved.org/members)
 #
 
 # Free
 
+
+
+[Unity Certified User](https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Overview)<br/>
+[PMI Project Management Ready®](https://certiport.pearsonvue.com/Certifications/pmi/Certifications/Overview)<br/>
+[Cisco Certified Support Technician](https://certiport.pearsonvue.com/Certifications/Cisco/Certified-Support-Technician/Overview)<br/>
+[Microsoft Certified Educator Program](https://certiport.pearsonvue.com/Certifications/Microsoft/MCE/Overview)<br/>
+[Microsoft Office Specialist Program](https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Overview)<br/>
+[Microsoft Certified Fundamentals](https://certiport.pearsonvue.com/Certifications/Microsoft/MCF/Overview)<br/>
 [Open EDR](https://www.openedr.com/openedr-certification.php)<br/>
 [PortSwigger](https://portswigger.net/web-security/all-materials)<br/>
 [HACKTORIA](https://hacktoria.com)<br/>

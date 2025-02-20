@@ -55,6 +55,10 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 [White Knight Labs](https://training.whiteknightlabs.com)<br/>
 [Chappell University](https://www.chappell-university.com/all-access-pass)<br/>
+[Simply Cyber Academy}(https://academy.simplycyber.io)<br/>
+[European Security Academy](https://euseca.com/course/osint)<br/>
+[International Anti Crime Academy (IACA)](https://anti-crime-academy.com/en/)<br/>
+[IMSL](https://intelmsl.com)<br/>
 [Red Siege](https://redsiege.com)<br/>
 [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>
 [0x12 Dark Development](https://0x12darkdev.net)<br/>

@@ -192,7 +192,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 ![Red Team Operator I](https://i.postimg.cc/TwmH1qXB/Red-Team-Operator-I.png)
 
-![Red Team Operator II](https://i.postimg.cc/hjFpkz7s/Red-Team-Operator-II.png)
+![Red Team Operator II](https://i.postimg.cc/pTj7v4qY/Red-Team-Operator-II.png)
 
 ![Red Team Operator III](https://i.postimg.cc/HkVzj4w3/Red-Team-Operator-III.png)
 

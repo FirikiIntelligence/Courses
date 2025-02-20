@@ -15,6 +15,9 @@ You can use Ctrl when clicking a link to avoid losing the main page
 #
 [CREST-accredited companies](https://www.crest-approved.org/members)
 #
+[Online Tutorials - Coupons 4 UDEMY](https://onlinetutorials.org)
+#
+[Online Courses - Coupons 4 UDEMY](https://onlinecourses.ooo)
 
 # Free
 

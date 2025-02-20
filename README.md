@@ -192,8 +192,6 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # TryHackMe Free Rooms
 
-#
-
 [Original Source - TryHackMe Roadmap (Free Rooms)](https://github.com/rng70/TryHackMe-Roadmap)
 
 #

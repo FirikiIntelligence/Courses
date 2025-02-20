@@ -194,8 +194,6 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # TryHackMe Premium Roadmap
 
-#
-
 ![TryHackMe Premium Roadmap](https://i.postimg.cc/s2x68jfB/2025-02-20-155723.png)
 
 #

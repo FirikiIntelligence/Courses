@@ -116,6 +116,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Juniper Networks](https://learningportal.juniper.net/juniper/default.aspx)<br/>
 [Check Point](https://training-certifications.checkpoint.com/#)<br/>
 [INE](https://ine.com)<br/>
+[Scrum.org](https://scrum.org/professional-scrum-certifications)<br/>
 [Global Association for Quality Management (GAQM)](https://gaqm.org)<br/>
 [F5 Roadmap](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>
 [F5](https://my.f5.com/manage/s/article/K29900360#401)<br/>
@@ -139,5 +140,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [EC-Council](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
 
+#
+
+# Who are the winners?
 
 ![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)

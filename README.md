@@ -188,15 +188,15 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 [Product roadmap 2025: Enable and scale threat readiness with Hack The Box](https://www.hackthebox.com/blog/product-roadmap-2025)
 
-[Hack The Box Product Roadmap 2025](https://i.postimg.cc/mrBPd2P1/2025-02-20-161800.png)
+![Hack The Box Product Roadmap 2025](https://i.postimg.cc/mrBPd2P1/2025-02-20-161800.png)
 
-[Red Team Operator I](https://i.postimg.cc/TwmH1qXB/Red-Team-Operator-I.png)
+![Red Team Operator I](https://i.postimg.cc/TwmH1qXB/Red-Team-Operator-I.png)
 
-[Red Team Operator II](https://i.postimg.cc/hjFpkz7s/Red-Team-Operator-II.png)
+![Red Team Operator II](https://i.postimg.cc/hjFpkz7s/Red-Team-Operator-II.png)
 
-[Red Team Operator III](https://i.postimg.cc/HkVzj4w3/Red-Team-Operator-III.png)
+![Red Team Operator III](https://i.postimg.cc/HkVzj4w3/Red-Team-Operator-III.png)
 
-[Red Team Operator IV](https://i.postimg.cc/DyzdYdMF/Red-Team-Operator-IV.png)
+![Red Team Operator IV](https://i.postimg.cc/DyzdYdMF/Red-Team-Operator-IV.png)
 
 #
 

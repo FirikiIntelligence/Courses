@@ -12,6 +12,9 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free
 
+[HACKTORIA](https://hacktoria.com)<br/>
+[CYBER MILLION](https://cybermillion.immersivelabs.online/register)<br/>
+[Malware-Traffic-Analysis.net](https://malware-traffic-analysis.net)<br/>
 [The NATO Cooperative Cyber Defence Centre of Excellence - Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)<br/>
 [Maltego Academy](https://academy.maltego.com)<br/>
 [CrowdSec Academy](https://academy.crowdsec.net)<br/>
@@ -31,6 +34,9 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+[Cyber Institute](https://courses.thecyberinst.org)<br/>
+[CSI Linux Certification](https://echothislabs.com/course/index.php)<br/>
+[OSINT Combine Academy](https://academy.osintcombine.com)<br/>
 [APIsec University Totally](https://apisecuniversity.com)<br/>
 [Antisyphon Training](https://antisyphontraining.com)<br/>
 [Blue Cape Security](https://bluecapesecurity.com)<br/>
@@ -53,11 +59,16 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
+[ISECOM](https://isecom.org/certification.html)<br/>
+[SUMURI](https://sumuri.com/courses-overview/?srsltid=AfmBOoqBUCdXvKTyeczezu8Re9Edb64SgFYsbMAAZm8dpmLp6PCSRF7x)<br/>
+[Belkasoft](https://belkasoft.com/digital-forensics-training)<br/>
+[OSINT Academy](https://osintacademy.com)<br/>
 [White Knight Labs](https://training.whiteknightlabs.com)<br/>
 [Chappell University](https://www.chappell-university.com/all-access-pass)<br/>
-[Simply Cyber Academy}(https://academy.simplycyber.io)<br/>
+[Simply Cyber Academy](https://academy.simplycyber.io)<br/>
 [European Security Academy](https://euseca.com/course/osint)<br/>
 [International Anti Crime Academy (IACA)](https://anti-crime-academy.com/en/)<br/>
+[Hackers Arise](https://hackers-arise.com)<br/>
 [IMSL](https://intelmsl.com)<br/>
 [Red Siege](https://redsiege.com)<br/>
 [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>

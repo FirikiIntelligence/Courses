@@ -18,8 +18,6 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free
 
-
-
 [Unity Certified User](https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Overview)<br/>
 [PMI Project Management Ready®](https://certiport.pearsonvue.com/Certifications/pmi/Certifications/Overview)<br/>
 [Cisco Certified Support Technician](https://certiport.pearsonvue.com/Certifications/Cisco/Certified-Support-Technician/Overview)<br/>
@@ -50,6 +48,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+(https://pwnedlabs.io)<br/>
+[Security Compass](https://www.securitycompass.com/application-security-training)<br/>
 [Cyber Institute](https://courses.thecyberinst.org)<br/>
 [CSI Linux Certification](https://echothislabs.com/course/index.php)<br/>
 [OSINT Combine Academy](https://academy.osintcombine.com)<br/>
@@ -75,6 +75,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
+[Toddington International Inc](https://toddington.com)<br/>
 [ISECOM](https://isecom.org/certification.html)<br/>
 [SUMURI](https://sumuri.com/courses-overview/?srsltid=AfmBOoqBUCdXvKTyeczezu8Re9Edb64SgFYsbMAAZm8dpmLp6PCSRF7x)<br/>
 [Belkasoft](https://belkasoft.com/digital-forensics-training)<br/>

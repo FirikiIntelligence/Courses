@@ -179,7 +179,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 #
 
-# Who are the winners?
+# Who are the winners? 🙄🙃🤔
 
 ![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)
 

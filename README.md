@@ -10,8 +10,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 #
 
-# Free #
-
+# Free
+#
 [The NATO Cooperative Cyber Defence Centre of Excellence - Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)<br/>
 [Maltego Academy](https://academy.maltego.com)<br/>
 [CrowdSec Academy](https://academy.crowdsec.net)<br/>
@@ -28,8 +28,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Palo Alto Networks](https://paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses)<br/>
 
 
-# Free & Paid Modules #
-
+# Free & Paid Modules
+#
 [APIsec University Totally](https://apisecuniversity.com)<br/>
 [Antisyphon Training](https://antisyphontraining.com)<br/>
 [Blue Cape Security](https://bluecapesecurity.com)<br/>
@@ -48,8 +48,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Alison](https://alison.com)<br/>
 [Cybrary](https://cybrary.it)<br/>
 
-# Paid #
-
+# Paid
+#
 [White Knight Labs](https://training.whiteknightlabs.com)<br/>
 [Chappell University](https://www.chappell-university.com/all-access-pass)<br/>
 [Red Siege](https://redsiege.com)<br/>

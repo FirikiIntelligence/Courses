@@ -48,7 +48,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
-(https://pwnedlabs.io)<br/>
+[Pwned Labs](https://pwnedlabs.io)<br/>
 [Security Compass](https://www.securitycompass.com/application-security-training)<br/>
 [Cyber Institute](https://courses.thecyberinst.org)<br/>
 [CSI Linux Certification](https://echothislabs.com/course/index.php)<br/>

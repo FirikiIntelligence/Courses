@@ -6,6 +6,11 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
+
+
+[IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>
+[0x12 Dark Development](https://0x12darkdev.net)<br/>
+[CodeMachine](https://codemachine.com)<br/>
 [AlteredSecurity](https://alteredsecurity.com)<br/>
 [Vellum Global Educational Services](https://vellum.org.gr/en)<br/>
 [Zachman International & The FEAC Institute](https://zachman-feac.com)<br/>
@@ -25,7 +30,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Hacker Associate](https://hackerassociate.com)<br/>
 [CyberDefenders](https://cyberdefenders.org)<br/>
 [Hex-Rays](https://hex-rays.com/training)<br/>
-[Nutanix University Certification](
+[Cyber Skly](https://cyber-sky.org/en)<br/>
+[Nutanix University Certification](https://nutanix.com/support-services/training-certification/certifications)<br/>
 [Israel Cyber Campus](https://israelcybercampus.com)<br/>
 [TrainSec](https://trainsec.net)<br/>
 [CORELAN TRAINING](https://corelan-training.com)<br/>

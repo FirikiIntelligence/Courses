@@ -79,6 +79,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
+[HackTricks](https://training.hacktricks.xyz)<br/>
 [Toddington International Inc](https://toddington.com)<br/>
 [ISECOM](https://isecom.org/certification.html)<br/>
 [SUMURI](https://sumuri.com/courses-overview/?srsltid=AfmBOoqBUCdXvKTyeczezu8Re9Edb64SgFYsbMAAZm8dpmLp6PCSRF7x)<br/>

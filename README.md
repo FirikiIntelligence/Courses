@@ -4,11 +4,14 @@
 
 ![Cybersecurity Football Team - Ethical Hackers Academy®](https://media.licdn.com/dms/image/v2/D4E22AQF_8C2VrGiHsQ/feedshare-shrink_800/B4EZPWKGgpHAAk-/0/1734464793667?e=1743033600&v=beta&t=HEf1YqBMfK2FOhSsgj_EvUjRXkawU6SrAxgfl_Mdqcg)
 
+#
+
 You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free
 
-[APIsec University Totally Free Paid Only the Exams](https://apisecuniversity.com)<br/>
+[The NATO Cooperative Cyber Defence Centre of Excellence - Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)<br/>
+[Maltego Academy](https://academy.maltego.com)<br/>
 [CrowdSec Academy](https://academy.crowdsec.net)<br/>
 [Recorded Future University](https://university.recordedfuture.com)<br/>
 [ATT&CK Training](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>
@@ -25,6 +28,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+[APIsec University Totally](https://apisecuniversity.com)<br/>
+[Antisyphon Training](https://antisyphontraining.com)<br/>
 [Blue Cape Security](https://bluecapesecurity.com)<br/>
 [Hack The Box - HTB](https://academy.hackthebox.com)<br/>
 [CTI Academy](https://ctiacademy.org)<br/>
@@ -32,7 +37,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [ICTTF - International Cyber Threat Task Force](https://community.icttf.org)<br/>
 [Lets Defend](https://app.letsdefend.io)<br/>
 [CISCO](https://cisco.com)<br/>
-[SECURITY BLUE TEAM Intro Free BL1 & BL2 Paid](https://securityblue.team)<br/>
+[SECURITY BLUE TEAM](https://securityblue.team)<br/>
 [TryHack Me](https://tryhackme.com)<br/>
 [IFOSEC Skills](https://app.infosecinstitute.com)<br/>
 [udemy](https://udemy.com)<br/>
@@ -44,7 +49,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 # Paid
 
 [White Knight Labs](https://training.whiteknightlabs.com)<br/>
-[Maltego Academy](https://academy.maltego.com)<br/>
+[Chappell University](https://www.chappell-university.com/all-access-pass)<br/>
 [Red Siege](https://redsiege.com)<br/>
 [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>
 [0x12 Dark Development](https://0x12darkdev.net)<br/>

@@ -184,6 +184,12 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 #
 
+# Hack The Box Product roadmap 2025
+
+(https://postimg.cc/bZVYrPHq)
+
+[Product roadmap 2025: Enable and scale threat readiness with Hack The Box](https://www.hackthebox.com/blog/product-roadmap-2025)
+
 # TryHackMe Premium Roadmap
 
 ![TryHackMe Premium Roadmap](https://i.postimg.cc/DwbQVZfC/2025-02-20-155723.png)

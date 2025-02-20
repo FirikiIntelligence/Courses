@@ -6,8 +6,46 @@
 
 You can use Ctrl when clicking a link to avoid losing the main page
 
+# Free
+
+[APIsec University Totally Paid Only the Exams](https://apisecuniversity.com)<br/>
+[CrowdSec Academy](https://academy.crowdsec.net)<br/>
+[Recorded Future University](https://university.recordedfuture.com)<br/>
+[ATT&CK Training](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>
+[ATTACKIQ Academy](https://www.academy.attackiq.com)<br/>
+[CyberLand Academy](https://cyberlandsec.com)<br/>
+[Qualys](https://qualys.com/training)<br/>
+[MALWAREUNICORN](https://malwareunicorn.org/#/workshops)<br/>
+[ATTACK IQ](https://academy.attackiq.com)<br/>
+[Microsoft Learn Free Modules & Paid Certs](https://learn.microsoft.com)<br/>
+[Google](https://grow.google)<br/>
+[Google Cloud](https://cloud.google.com/learn)<br/>
+[Palo Alto Networks](https://paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses)<br/>
+
+
+# Free & Paid Modules
+
+[Blue Cape Security](https://bluecapesecurity.com)<br/>
+[Hack The Box - HTB](https://academy.hackthebox.com)<br/>
+[CTI Academy](https://ctiacademy.org)<br/>
+[TCM SEC Academy](https://academy.tcm-sec.com)<br/>
+[ICTTF - International Cyber Threat Task Force](https://community.icttf.org)<br/>
+[Lets Defend](https://app.letsdefend.io)<br/>
+[CISCO](https://cisco.com)<br/>
+[SECURITY BLUE TEAM Intro Free BL1 & BL2 Paid](https://securityblue.team)<br/>
+[TryHack Me](https://tryhackme.com)<br/>
+[IFOSEC Skills](https://app.infosecinstitute.com)<br/>
+[udemy](https://udemy.com)<br/>
+[coursera](https://coursera.org)<br/>
+[edx](https://edx.org)<br/>
+[Alison](https://alison.com)<br/>
+[Cybrary](https://cybrary.it)<br/>
+
+# Paid
+
+[White Knight Labs](https://training.whiteknightlabs.com)<br/>
 [Maltego Academy](https://academy.maltego.com)<br/>
-[APIsec University Totally Free & Paid Only the Exams](https://apisecuniversity.com)<br/>
+[Red Siege](https://redsiege.com)<br/>
 [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>
 [0x12 Dark Development](https://0x12darkdev.net)<br/>
 [CodeMachine](https://codemachine.com)<br/>
@@ -16,14 +54,10 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Zachman International & The FEAC Institute](https://zachman-feac.com)<br/>
 [MAD20™](https://mad20.io)<br/>
 [Threat Intelligence Academy](https://threatintel.academy)<br/>
-[CrowdSec Academy Free](https://academy.crowdsec.net)<br/>
-[Recorded Future University Free](https://university.recordedfuture.com)<br/>
-[ATT&CK Training Free](https://attack.mitre.org/resources/learn-more-about-attack/training)<br/>
 [Virtual Hacking Labs](https://virtualhackinglabs.com)<br/>
 [ITCERTS](https://itcerts.ca)<br/>
 [DRI International](https://drii.org)<br/>
 [PECB - Professional Evaluation and Certification Board](https://pecb.com)<br/>
-[ICTTF - International Cyber Threat Task Force Free & Paid Modules](https://community.icttf.org)<br/>
 [EITCA Academy](https://eitca.org/certifications)<br/>
 [FORTINET](https://training.fortinet.com)<br/>
 [PentesterLab](https://pentesterlab.com)<br/>
@@ -36,30 +70,20 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [TrainSec](https://trainsec.net)<br/>
 [CORELAN TRAINING](https://corelan-training.com)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
-[ATTACKIQ Academy Free](https://www.academy.attackiq.com)<br/>
 [SEE SECURITY](https://en.see-security.com)<br/>
 [Dark Vortex](https://0xdarkvortex.dev)<br/>
 [Maldev Academy](https://maldevacademy.com)<br/>
 [MOT - My OSINT Training](https://myosint.training)<br/>
 [SANS](https://sans.org)<br/>
 [Mosse Institute](https://mosse-institute.com)<br/>
-[Hack The Box - HTB Free & Paid Modules](https://academy.hackthebox.com)<br/>
-[CTI Academy Free & Paid Modules](https://ctiacademy.org)<br/>
-[TCM SEC Academy Free & Paid Modules](https://academy.tcm-sec.com)<br/>
 [CyberSudo](https://academy.cybersudo.org)<br/>
-[Lets Defend Free & Paid Modules](https://app.letsdefend.io)<br/>
-[CyberLand Academy Free](https://cyberlandsec.com)<br/>
-[TryHack Me Free & Paid Modules](https://tryhackme.com)<br/>
 [OffSec](https://offsec.com)<br/>
 [CREST](https://crest-approved.org)<br/>
 [isc2](https://isc2.org)<br/>
-[CISCO Free & Paid Modules](https://cisco.com)<br/>
 [SECO](https://seco-institute.org)<br/>
-[SECURITY BLUE TEAM Intro Free BL1 & BL2 Paid](https://securityblue.team)<br/>
 [ZERO POINT SECURITY](https://training.zeropointsecurity.co.uk)<br/>
 [mile2.com](https://mile2.com)<br/>
 [ISACA](https://isaca.org)<br/>
-[IFOSEC Skills Free & Paid Modules](https://app.infosecinstitute.com)<br/>
 [The SecOps Group](https://secops.group)<br/>
 [CyberWarFare Labs](https://cyberwarfare.live)<br/>
 [CompTIA](https://comptia.org)<br/>
@@ -81,7 +105,6 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [Identity Management Institute® (IMI)](https://identitymanagementinstitute.org/certification)<br/>
 [Juniper Networks](https://learningportal.juniper.net/juniper/default.aspx)<br/>
 [Check Point](https://training-certifications.checkpoint.com/#)<br/>
-[Qualys Free](https://qualys.com/training)<br/>
 [INE](https://ine.com)<br/>
 [Global Association for Quality Management (GAQM)](https://gaqm.org)<br/>
 [F5 Roadmap](https://view.ceros.com/f5/certification-roadmap/p/1)<br/>
@@ -90,31 +113,21 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [The Open Group](https://opengroup.org)<br/>
 [RedTeam Hacker Academy](https://redteamacademy.com)<br/>
 [BLACKSTORM SECURITY](https://blackstormsecurity.com/certification)<br/>
-[MALWAREUNICORN Free](https://malwareunicorn.org/#/workshops)<br/>
 [Zero Day Engineering](https://zerodayengineering.com/training/index.html)<br/>
-[ATTACK IQ Free](https://academy.attackiq.com)<br/>
 [kaspersky expert training](https://xtraining.kaspersky.com)<br/>
-[Google Free](https://grow.google)<br/>
-[Google Cloud Free](https://cloud.google.com/learn)<br/>
 [trainsec](https://trainsec.net)<br/>
 [ITCERTS](https://itcerts.ca)<br/>
 [CYBERNA](https://cybernabeta.net)<br/>
 [8kSec](https://8ksec.io/certifications)<br/>
-[Microsoft Learn Free Modules & Paid Certs](https://learn.microsoft.com)<br/>
 [Palo Alto Networks](https://paloaltonetworks.com/services/education/certification)<br/>
-[Palo Alto Networks Free](https://paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses)<br/>
 [VMware, Inc](https://itacademy.vmware.com)<br/>
 [BlackPerl](https://academy.blackperldfir.com/)<br/>
 [Ethical Hackers Academy](https://ethicalhacksacademy.com)<br/>
 [sektor7 institute](https://institute.sektor7.net)<br/>
 [OST2.FYI](https://ost2.fyi/Home.html)<br/>
 [trainsec](https://trainsec.net)<br/>
-[EC-Council Free & Paid Modules](https://eccouncil.org)<br/>
+[EC-Council](https://eccouncil.org)<br/>
 [eduonix](https://eduonix.com)<br/>
-[udemy Free & Paid Modules](https://udemy.com)<br/>
-[coursera Free & Paid Modules](https://coursera.org)<br/>
-[edx](https://edx.org)<br/>
-[Alison Free & Paid Modules](https://alison.com)<br/>
-[Cybrary Free & Paid Modules](https://cybrary.it)<br/>
+
 
 ![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)

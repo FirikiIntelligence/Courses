@@ -184,11 +184,11 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 #
 
-[Original Source](https://github.com/rng70/TryHackMe-Roadmap)
+[Original Source - TryHackMe Roadmap](https://github.com/rng70/TryHackMe-Roadmap)
 
 #
 
-[Forked Source](https://github.com/winterrdog/tryhackme-free-rooms)
+[Forked Source - TryHackMe Free Rooms](https://github.com/winterrdog/tryhackme-free-rooms)
 
 #
 

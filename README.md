@@ -64,7 +64,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 [CISCO](https://cisco.com)<br/>
 [SECURITY BLUE TEAM](https://securityblue.team)<br/>
 [TryHack Me](https://tryhackme.com)<br/>
-[IFOSEC Skills](https://app.infosecinstitute.com)<br/>
+[INFOSEC Skills](https://app.infosecinstitute.com)<br/>
 [udemy](https://udemy.com)<br/>
 [coursera](https://coursera.org)<br/>
 [edx](https://edx.org)<br/>

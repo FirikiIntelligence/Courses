@@ -90,7 +90,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 - [Simply Cyber Academy](https://academy.simplycyber.io)<br/>
 - [European Security Academy](https://euseca.com/course/osint)<br/>
 - [International Anti Crime Academy (IACA)](https://anti-crime-academy.com/en/)<br/>
-[Hackers Arise](https://hackers-arise.com)<br/>
+- [Hackers Arise](https://hackers-arise.com)<br/>
 - [IMSL](https://intelmsl.com)<br/>
 - [Red Siege](https://redsiege.com)<br/>
 - [IICYBERSECURITY](https://iicybersecurity.com/index-eng.html)<br/>

@@ -21,7 +21,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free
 
--[Purple Academy](https://academy.picussecurity.com/courses)<br/>
+- [Purple Academy](https://academy.picussecurity.com/courses)<br/>
 - [Unity Certified User](https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Overview)<br/>
 - [PMI Project Management Ready®](https://certiport.pearsonvue.com/Certifications/pmi/Certifications/Overview)<br/>
 - [Cisco Certified Support Technician](https://certiport.pearsonvue.com/Certifications/Cisco/Certified-Support-Technician/Overview)<br/>

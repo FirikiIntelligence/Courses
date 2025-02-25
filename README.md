@@ -177,6 +177,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 - [trainsec](https://trainsec.net)<br/>
 - [EC-Council](https://eccouncil.org)<br/>
 - [eduonix](https://eduonix.com)<br/>
+- [OPSWAT](https://opswatacademy.com)<br/>
 
 #
 

@@ -83,6 +83,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
+- [Covert Access Training](https://www.covertaccessteam.com/courses)<br/>
 - [HackTricks](https://training.hacktricks.xyz)<br/>
 - [Toddington International Inc](https://toddington.com)<br/>
 - [ISECOM](https://isecom.org/certification.html)<br/>

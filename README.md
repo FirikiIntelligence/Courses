@@ -52,7 +52,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
-- [Cyber Institute](https://courses.thecyberinst.org)<br/)
+- [Cyber Institute](https://courses.thecyberinst.org)<br/>
 - [Level Effect](https://training.leveleffect.com/catalog)<br/>
 - [Codecademy_](https://www.codecademy.com/catalog/subject/cybersecurity)<br/>
 - [Cyber Talents](https://cybertalents.com)<br/>

@@ -52,6 +52,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+- [Level Effect](https://training.leveleffect.com/catalog)<br/>
+- [Codecademy_](https://www.codecademy.com/catalog/subject/cybersecurity)<br/>
 - [Cyber Talents](https://cybertalents.com)<br/>
 - [CYBER 5W](https://academy.cyber5w.com/collections/courses)<br/>
 - [Pwned Labs](https://pwnedlabs.io)<br/>

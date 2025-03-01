@@ -83,6 +83,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
+- [IIBA = International Institute of Business Analysis](https://www.iiba.org/business-analysis-certifications/iiba-certifications)<br/>
 - [Covert Access Training](https://www.covertaccessteam.com/courses)<br/>
 - [HackTricks](https://training.hacktricks.xyz)<br/>
 - [Toddington International Inc](https://toddington.com)<br/>

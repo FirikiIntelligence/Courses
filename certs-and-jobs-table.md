@@ -14,12 +14,12 @@
 | **Penetration Tester** | OSCP, CompTIA PenTest+, GWAPT | OffSec, PentesterLab, HTB, TCM Security |
 | **SOC Manager** | CISSP, CISM, GSOC, GSOM | Security Blue Team, CyberDefenders, Lets Defend |
 | **SIEM Engineer** | CISSP, CISM, CYSA+, CASP+, CSOM, GCED, GCIA | Splunk, ELK Stack, SOC Analyst Training |
-| **Threat Intelligence Analyst** | CISSP, CISM, GCTI, CTIA | Recorded Future, ATT&CK Training, ATTACKIQ Academy |
+| **Threat Intelligence Analyst** | CISSP, CISM, GCTI, CTIA | SANS, Recorded Future, ATT&CK Training, ATTACKIQ Academy |
 | **Cybersecurity Engineer** | CISSP, CompTIA Security+, GSEC | SANS, AWS Security, Palo Alto Networks |
 | **Cybersecurity Analyst** | CISSP, CompTIA CYSA+, GIAC GSEC | Security Blue Team, Lets Defend, Cybrary |
 | **Network Security Engineer** | CISSP, CompTIA Security+, Cisco CCNA, GSEC | Cisco, Juniper, Check Point, Fortinet |
 | **Systems Security Administrator** | CISSP, CompTIA Security+, SSCP | Linux Professional Institute, VMware, Red Hat |
-| **Forensic Computer Analyst** | GCFA, CCE, EnCE | SUMURI, Belkasoft, Maltego Academy, Hex-Rays |
+| **Forensic Computer Analyst** | GCFA, CCE, EnCE | SANS, SUMURI, Belkasoft, Maltego Academy, Hex-Rays |
 | **Security Software Developer** | CSSLP, GIAC GWEB | Secure Code Warrior, CyberSudo, CodeMachine |
 | **Incident Responder** | GCHI, CERT-CSHI, ECHI | SANS, Malware-Traffic-Analysis.net, Security Blue Team |
 | **Vulnerability Assessor** | OSCP, CompTIA Security+, CVPA | Zero Day Engineering, Red Team Hacker Academy |
@@ -30,6 +30,6 @@
 | **Cloud Security Engineer** | CCSP, CompTIA Cloud+, CSE, CKS, CCSK | AWS, Google Cloud, Kubernetes Security |
 | **Cloud Security Analyst** | CCSP, CompTIA Cloud+, CCSK, GCSA | AWS, Google Cloud, Palo Alto Networks |
 | **Cloud Security Auditor** | CCSP, CCSK, CCAK, GCSA, ISO 27017 Lead Auditor | PECB, TÜV SÜD |
-| **Cloud Forensic Analyst** | CCSP, CCFP, GCFR, GCFE, GCTD | SUMURI, Belkasoft, Maltego Academy |
+| **Cloud Forensic Analyst** | CCSP, CCFP, GCFR, GCFE, GCTD | SANS, SUMURI, Belkasoft, Maltego Academy |
 
 ---

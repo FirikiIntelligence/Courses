@@ -11,6 +11,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 #
 - [Paul Jeremy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap)
 #
+- [SANS Training Roadmap ](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd91e280028129978/661409921952f037d3fc0a13/2024_Roadmap_02-24_v1.pdf)
+#
 - [Synack Red Team Pathways](https://www.synack.com/red-team/pathways)
 #
 - [CREST-accredited companies](https://www.crest-approved.org/members)

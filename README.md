@@ -54,6 +54,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+- [Securzy](https://lab.securzy.io/courses)<br/>
 - [Cyber Intelligence Global LLP](https://training.cyintglobal.com/courses)<br/>
 - [Cyber Institute](https://courses.thecyberinst.org)<br/>
 - [Level Effect](https://training.leveleffect.com/catalog)<br/>
@@ -86,7 +87,6 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
--[Securzy](https://lab.securzy.io/courses)<br/>
 - [IIBA = International Institute of Business Analysis](https://www.iiba.org/business-analysis-certifications/iiba-certifications)<br/>
 - [Covert Access Training](https://www.covertaccessteam.com/courses)<br/>
 - [HackTricks](https://training.hacktricks.xyz)<br/>

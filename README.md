@@ -54,6 +54,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+- [Cyber Intelligence Global LLP](https://training.cyintglobal.com/courses)<br/>
 - [Cyber Institute](https://courses.thecyberinst.org)<br/>
 - [Level Effect](https://training.leveleffect.com/catalog)<br/>
 - [Codecademy_](https://www.codecademy.com/catalog/subject/cybersecurity)<br/>

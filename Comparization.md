@@ -53,14 +53,6 @@
 | **CISSP: Certified Information Systems Security Professional** | (ISC)²                        | ~€700          | $749           | ~£600          | Not included in cost ($0 - $4000 optional) | 3 years (CPE required) | CISO, Security Manager |
 
 
-
-
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here’s the **fully updated comparison table** and **analysis** with the inclusion of **HTB Certified Active Directory Pentesting Expert (HTB CAPE)**. Everything is in English as requested.
-
----
-
 ## **The Battle of the Recognition: Comparing Cybersecurity Certifications**  
 
 Choosing the right cybersecurity certification can feel like a battle. Below, I’ve broken down the **pros and cons** of popular and niche certifications, of my personal choice, to help me & you decide which one is right for me & you.  
@@ -110,7 +102,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **4. CPTS (Hack The Box Certified Penetration Testing Specialist)**  
+### **4. CPTS (Certified Penetration Testing Specialist)**  
 **Pros:**  
 - **HTB Labs Access:** Includes 200+ hands-on modules.  
 - **Comprehensive:** Covers web apps, networks, and Active Directory.  
@@ -123,7 +115,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **5. MRT - Certified Red Teamer (Mosse Institute)**  
+### **5. MRT - Certified Red Teamer**  
 **Info:**  
 - The **Mosse Institute** offers specialized certifications in hacking and red teaming. The MRT is marketed as a red teaming certification but is **not widely recognized** in the industry.  
 - Limited information is available about its content or quality.  
@@ -140,7 +132,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **6. CNPen (Certified Network Pentester) – SecOps Group**  
+### **6. CNPen (Certified Network Pentester)**  
 **Info:**  
 - Focuses on **network penetration testing**, covering internal/external network exploitation, pivoting, and lateral movement.  
 - Likely includes hands-on labs simulating real-world network environments.  
@@ -158,7 +150,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **7. C-ADPenX (Certified Active Directory Pentesting eXpert) – SecOps Group**  
+### **7. C-ADPenX (Certified Active Directory Pentesting eXpert) - Note: The exam details will be sent to you on/before 15 March 2025.**  
 **Info:**  
 - Focuses on **advanced Active Directory attacks**, including Kerberos exploitation, AD misconfigurations, and lateral movement.  
 - Likely includes simulated enterprise AD environments for hands-on practice.  
@@ -176,7 +168,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **8. HTB CAPE (Hack The Box Certified Active Directory Pentesting Expert)**  
+### **8. CAPE (Certified Active Directory Pentesting Expert)**  
 **Info:**  
 - Focuses on **advanced Active Directory pentesting**, including Kerberos attacks, AD misconfigurations, and lateral movement.  
 - Likely includes hands-on labs and simulated enterprise AD environments.  
@@ -207,7 +199,7 @@ Choosing the right cybersecurity certification can feel like a battle. Below, I�
 
 ---
 
-### **Updated Comparison Table**  
+### **Comparison Table**  
 | Certification       | Cost       | Difficulty | Recognition | Best For                          |  
 |----------------------|------------|------------|-------------|-----------------------------------|  
 | **OSCP**             | $$$$       | High       | ★★★★★       | Penetration Testing Careers       |  

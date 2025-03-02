@@ -54,6 +54,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
+-[PassMark™ Software](https://www.osforensics.com/training.html)<br/>
 - [Securzy](https://lab.securzy.io/courses)<br/>
 - [Cyber Intelligence Global LLP](https://training.cyintglobal.com/courses)<br/>
 - [Cyber Institute](https://courses.thecyberinst.org)<br/>

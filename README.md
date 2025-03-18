@@ -13,6 +13,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 #
 - [SANS Training Roadmap ](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd91e280028129978/661409921952f037d3fc0a13/2024_Roadmap_02-24_v1.pdf)
 #
+- [Become Microsoft Certified](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf)
+#
 - [NICCS Cyber Career Pathways Tool](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool?quiet=1)
 #
 - [Synack Red Team Pathways](https://www.synack.com/red-team/pathways)

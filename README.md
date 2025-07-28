@@ -200,6 +200,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Who are the winners? 🙄🙃🤔
 
+![Cyber Cert](https://raw.githubusercontent.com/FirikiIntelligence/Courses/refs/heads/main/Ceber%20Cert.jpg)
+
 ![CEH vs Ohers](https://res.cloudinary.com/fluid-attacks/image/upload/v1683313130/blog/certified-ethical-hacker-ceh/ceh_comparison.webp)
 
 ![How to Become a Penetration Tester](https://www.stationx.net/wp-content/uploads/2023/01/Where-Does-a-Penetration-Tester-Fit-Into-the-Cyber-Security-Industry.png)

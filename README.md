@@ -60,7 +60,7 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Free & Paid Modules
 
--[PassMark™ Software](https://www.osforensics.com/training.html)<br/>
+- [PassMark™ Software](https://www.osforensics.com/training.html)<br/>
 - [Securzy](https://lab.securzy.io/courses)<br/>
 - [Cyber Intelligence Global LLP](https://training.cyintglobal.com/courses)<br/>
 - [Cyber Institute](https://courses.thecyberinst.org)<br/>
@@ -94,7 +94,8 @@ You can use Ctrl when clicking a link to avoid losing the main page
 
 # Paid
 
-- [Covert Access Team](https://www.covertaccessteam.com/courses)
+- [OpenCTI Training Courses](https://training.filigran.io/)<br/>
+- [Covert Access Team](https://www.covertaccessteam.com/courses)<br/>
 - [IIBA = International Institute of Business Analysis](https://www.iiba.org/business-analysis-certifications/iiba-certifications)<br/>
 - [Covert Access Training](https://www.covertaccessteam.com/courses)<br/>
 - [HackTricks](https://training.hacktricks.xyz)<br/>

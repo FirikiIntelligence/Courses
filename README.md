@@ -1,6 +1,6 @@
 # 1337 Course Providers
 
-![Roadmap for Learning Cyber Security](https://media.licdn.com/dms/image/v2/D5622AQE35mObxUr_-Q/feedshare-shrink_800/feedshare-shrink_800/0/1712920636302?e=1746662400&v=beta&t=hVNYgHirnjJOmAMUIn6h7QAC-85-rh1aly2txJFgJ_Y)
+![Roadmap for Learning Cyber Security](https://media.licdn.com/dms/image/v2/D5622AQE35mObxUr_-Q/feedshare-shrink_800/feedshare-shrink_800/0/1712920636302?e=1746662400&v=beta&t=hVNYgHirnjJOmAMUIn6h7QAC-85-rh1aly2txJFgJ_Y](https://github.com/FirikiIntelligence/Courses/blob/main/01.%20ROADMAP.gif)
 
 ![Cybersecurity Football Team - Ethical Hackers Academy®](https://media.licdn.com/dms/image/v2/D5622AQERKse5vHzQSw/feedshare-shrink_800/B56ZPPHxSwGsAg-/0/1734346747794?e=1746662400&v=beta&t=qThCri2SWPgYk_V3O1eeA1iFr6yk7cJEcrQFydJO33w)
 
